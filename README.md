@@ -1,0 +1,3 @@
+- Link to HTML
+- HTML to dotEPUB to EPUB
+- Email EPUB to Amazon Kindle Device
